@@ -1,0 +1,4 @@
+2024-11-20 18:36:45,994 UAV moved to passage 932. Estimates can now be obtained for edge 0, 932.
+2024-11-20 18:36:45,994 AI queried for edge 0, 932. The estimate was 0.7000296112087276.
+2024-11-20 18:36:45,994 Landmine detected along edge 0, 932. UGV returned to orginal passageway. Move UGV again to clear landmine and complete traversal.
+2024-11-20 18:36:45,994 Landmine cleared. UGV moved to passage 932.

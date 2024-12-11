@@ -1,0 +1,38 @@
+2024-11-25 19:07:45,750 UAV moved to passage 504. Estimates can now be obtained for edge 0, 504.
+2024-11-25 19:07:45,750 AI queried for edge 0, 504. The estimate was 0.11920292202211755.
+2024-11-25 19:07:45,790 UAV moved to passage 645. Estimates can now be obtained for edge 504, 645.
+2024-11-25 19:07:45,790 AI queried for edge 504, 645. The estimate was 0.10949770331923316.
+2024-11-25 19:07:45,790 UGV moved to passage 504.
+2024-11-25 19:07:45,830 UAV moved to passage 856. Estimates can now be obtained for edge 856, 645.
+2024-11-25 19:07:45,830 AI queried for edge 856, 645. The estimate was 0.8044510196274675.
+2024-11-25 19:07:45,845 UGV moved to passage 645.
+2024-11-25 19:07:45,879 UAV moved to passage 226. Estimates can now be obtained for edge 226, 856.
+2024-11-25 19:07:45,879 AI queried for edge 226, 856. The estimate was 0.09006782478684552.
+2024-11-25 19:07:45,879 UGV moved to passage 856.
+2024-11-25 19:07:45,919 UAV moved to passage 204. Estimates can now be obtained for edge 204, 226.
+2024-11-25 19:07:45,919 AI queried for edge 204, 226. The estimate was 0.5448212464994867.
+2024-11-25 19:07:45,919 UGV moved to passage 226.
+2024-11-25 19:07:45,951 UAV moved to passage 924. Estimates can now be obtained for edge 204, 924.
+2024-11-25 19:07:45,951 AI queried for edge 204, 924. The estimate was 0.14297937813771922.
+2024-11-25 19:07:45,951 UGV moved to passage 204.
+2024-11-25 19:07:45,983 UAV moved to passage 651. Estimates can now be obtained for edge 924, 651.
+2024-11-25 19:07:45,983 AI queried for edge 924, 651. The estimate was 0.5809453672101977.
+2024-11-25 19:07:45,988 UGV moved to passage 924.
+2024-11-25 19:07:46,015 UAV moved to passage 677. Estimates can now be obtained for edge 651, 677.
+2024-11-25 19:07:46,015 AI queried for edge 651, 677. The estimate was 0.9711366168419743.
+2024-11-25 19:07:46,015 UGV moved to passage 651.
+2024-11-25 19:07:46,047 UAV moved to passage 495. Estimates can now be obtained for edge 495, 677.
+2024-11-25 19:07:46,047 AI queried for edge 495, 677. The estimate was 0.6225718285943045.
+2024-11-25 19:07:46,047 Landmine detected along edge 651, 677. UGV returned to orginal passageway. Move UGV again to clear landmine and complete traversal.
+2024-11-25 19:07:46,047 Landmine cleared. UGV moved to passage 677.
+2024-11-25 19:07:46,079 UAV moved to passage 375. Estimates can now be obtained for edge 375, 495.
+2024-11-25 19:07:46,079 AI queried for edge 375, 495. The estimate was 0.24889416364645048.
+2024-11-25 19:07:46,079 UGV moved to passage 495.
+2024-11-25 19:07:46,103 UAV moved to passage 703. Estimates can now be obtained for edge 375, 703.
+2024-11-25 19:07:46,103 AI queried for edge 375, 703. The estimate was 0.19321783252648222.
+2024-11-25 19:07:46,111 UGV moved to passage 375.
+2024-11-25 19:07:46,135 UAV moved to passage 459. Estimates can now be obtained for edge 459, 703.
+2024-11-25 19:07:46,135 AI queried for edge 459, 703. The estimate was 0.24907639663509065.
+2024-11-25 19:07:46,135 UGV moved to passage 703.
+2024-11-25 19:07:46,168 UGV moved to passage 459.
+2024-11-25 19:07:46,168 MISSION SUCCESS
